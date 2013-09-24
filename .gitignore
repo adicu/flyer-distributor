@@ -1,0 +1,10 @@
+
+# secrets
+settings.sh
+
+# virtualenv
+bin
+include
+lib
+
+
