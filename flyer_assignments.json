@@ -1,0 +1,135 @@
+{
+	"data": [
+		{
+			"location": "1004 Classroom (309 Havenmeyer)",
+			"people": [
+				{
+					"name": "Dina",
+					"email" :"dina@adicu.com"
+				},
+				{
+					"name" : "Christian",
+					"email": "christian@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "1007 Classroom (501 NOCO)",
+			"people": [
+				{
+					"name": "Lisa",
+					"email" :"lisa@adicu.com"
+				},
+				{
+					"name" : "Melissa",
+					"email": "melissa@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "John Jay / LLC",
+			"people": [
+				{
+					"name": "Justin",
+					"email" :"justin.zhao@adicu.com"
+				},
+				{
+					"name" : "Robert",
+					"email": "robert@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "Carmen",
+			"people": [
+				{
+					"name": "Chris",
+					"email" :"css2162@columbia.edu"
+				},
+				{
+					"name" : "Brian",
+					"email": "brianwu93@gmail.com"
+				}
+			]
+		},
+		{
+			"location": "Furnald",
+			"people": [
+				{
+					"name": "Jared",
+					"email" :"jaredbrowarnik@gmail.com"
+				},
+				{
+					"name" : "Chris",
+					"email": "chris@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "Hamilton (Data Structures)",
+			"people": [
+				{
+					"name": "Polina",
+					"email" :"polina.viro@gmail.com"
+				},
+				{
+					"name" : "Dan",
+					"email": "dan@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "Lerner",
+			"people": [
+				{
+					"name": "Parthi",
+					"email" :"parthi@adicu.com"
+				},
+				{
+					"name" : "Derek",
+					"email": "derek@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "Mudd CS Lounge, entrance, lower",
+			"people": [
+				{
+					"name": "Howie",
+					"email" :"zhehao.mao@gmail.com"
+				},
+				{
+					"name" : "Zach",
+					"email": "zack@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "Barnard",
+			"people": [
+				{
+					"name": "Sophie",
+					"email" :"sophie@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "1006 Classroom (329 Pupin)",
+			"people": [
+				{
+					"name": "Brian",
+					"email" :"brian@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "Mudd 5,6,7,833",
+			"people": [
+				{
+					"name": "Jane",
+					"email" :"jane@adicu.com"
+				}
+			]
+		}
+	]
+}
