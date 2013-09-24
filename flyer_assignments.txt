@@ -1,0 +1,11 @@
+1004 Classroom (309 Havenmeyer)	Dina	dina@adicu.com	Christian	christian@adicu.com
+1006 Classroom (329 Pupin)	Brian	brian@adicu.com
+1007 Classroom (501 NOCO)	Lisa	lisa@adicu.com	Melissa	melissa@adicu.com
+John Jay / LLC	Justin	justin.zhao@adicu.com	Robert	robert@adicu.com
+Carmen	Chris	css2162@columbia.edu	Brian	brianwu93@gmail.com
+Furnald	Jared	jaredbrowarnik@gmail.com	Chris	chris@adicu.com
+Hamilton (Data Structures)	Polina	polina.viro@gmail.com	Dan	dan@adicu.com
+Lerner	Parthi	parthi@adicu.com	Derek	derek@adicu.com
+Barnard	Sophie	sophie@adicu.com
+Mudd 5,6,7,833	Jane	jane@adicu.com
+Mudd CS Lounge, entrance, lower	Howie	zhehao.mao@gmail.com	Zach	zack@adicu.com
