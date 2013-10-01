@@ -13,7 +13,7 @@ MANDRILL_HOST   = environ['MANDRILL_HOST']
 MANDRILL_PORT   = environ['MANDRILL_PORT']
 
 MANDRILL_URL    = 'https://mandrillapp.com/api/1.0'
-MANDRILL_PATH   = '/messages/send.json'
+MANDRILL_MESSAGE_PATH   = '/messages/send.json'
 
 
 def check_params():
@@ -44,8 +44,8 @@ def get_pdfs():
             "mimetype": "application/pdf"
         }
         # base 64 encode
-        #with open(flyer, 'rb') as pdf_file:
-        #    new_pdf['content'] = pdf_file.read().encode('base64')
+        with open(flyer, 'rb') as pdf_file:
+            new_pdf['content'] = pdf_file.read().encode('base64')
         pdf.append(new_pdf)
 
     return pdf

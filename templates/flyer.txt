@@ -6,3 +6,5 @@ As a reminder, you're signed up to flyer {location}.
 Thanks,
 {sender}
 
+(sorry if I messed up, sending via python script)
+
