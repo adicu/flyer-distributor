@@ -78,8 +78,6 @@ def send_emails(assignments, pdfs):
 if __name__ == '__main__':
     check_params()
     assignments = get_assignments()
-    print assignments
     pdfs = get_pdfs()
-    print len(pdfs)
     send_emails(assignments, pdfs)
 

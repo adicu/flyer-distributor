@@ -7,7 +7,7 @@ More functionality is planned.
 
 ####Running
 
-    python email.py <flyer assignments.txt> <flyer 1> <flyer 2> <.... >
+    python flyer_email.py <flyer assignments.json> <flyer 1> <flyer 2> <.... >
 
 ####Set Up
 
