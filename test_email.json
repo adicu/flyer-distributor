@@ -1,0 +1,17 @@
+{
+	"data": [
+		{
+			"location": "TESTING YOUR CODE",
+			"people": [
+				{
+					"name": "Nate",
+					"email" :"nate@adicu.com"
+				},
+				{
+					"name" : "Brian",
+					"email": "brian@adicu.com"
+				}
+			]
+		}
+	]
+}
