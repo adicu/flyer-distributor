@@ -1,27 +1,27 @@
 {
 	"data": [
 		{
-			"location": "1004 Classroom (309 Havenmeyer)",
+			"location": "309 hav",
 			"people": [
 				{
-					"name": "Dina",
-					"email" :"dina@adicu.com"
+					"name": "Parthi",
+					"email": "parthi@adicu.com"
 				},
 				{
-					"name" : "Christian",
-					"email": "christian@adicu.com"
+					"name": "Adam",
+					"email": "adam@adicu.com"
 				}
 			]
 		},
 		{
-			"location": "1007 Classroom (501 NOCO)",
+			"location": "Pupin",
 			"people": [
 				{
-					"name": "Lisa",
-					"email" :"lisa@adicu.com"
+					"name": "Derek",
+					"email": "derek@adicu.com"
 				},
 				{
-					"name" : "Melissa",
+					"name": "Melissa",
 					"email": "melissa@adicu.com"
 				}
 			]
@@ -30,25 +30,25 @@
 			"location": "John Jay / LLC",
 			"people": [
 				{
-					"name": "Justin",
-					"email" :"justin.zhao@adicu.com"
+					"name": "Matt",
+					"email": "matthew@adicu.com"
 				},
 				{
-					"name" : "Robert",
-					"email": "robert@adicu.com"
+					"name": "Angela",
+					"email": "angela@adicu.com"
 				}
 			]
 		},
 		{
-			"location": "Carmen",
+			"location": "Carman",
 			"people": [
 				{
-					"name": "Chris",
-					"email" :"css2162@columbia.edu"
+					"name": "Adam",
+					"email": "adam@adicu.com"
 				},
 				{
-					"name" : "Brian",
-					"email": "brianwu93@gmail.com"
+					"name": "Andy",
+					"email": "andy@adicu.com"
 				}
 			]
 		},
@@ -56,12 +56,12 @@
 			"location": "Furnald",
 			"people": [
 				{
-					"name": "Jared",
-					"email" :"jaredbrowarnik@gmail.com"
+					"name": "Sam",
+					"email": "samantha@adicu.com"
 				},
 				{
-					"name" : "Chris",
-					"email": "chris@adicu.com"
+					"name": "Eunice",
+					"email": "eunice@adicu.com"
 				}
 			]
 		},
@@ -69,12 +69,12 @@
 			"location": "Hamilton (Data Structures)",
 			"people": [
 				{
-					"name": "Polina",
-					"email" :"polina.viro@gmail.com"
-				},
+					"name": "Jane",
+					"email": "jane@adicu.com"
+					},
 				{
-					"name" : "Dan",
-					"email": "dan@adicu.com"
+					"name": "Brian",
+					"email": "brianzeng@adicu.com"
 				}
 			]
 		},
@@ -82,25 +82,12 @@
 			"location": "Lerner",
 			"people": [
 				{
-					"name": "Parthi",
-					"email" :"parthi@adicu.com"
+					"name": "Brian",
+					"email": "brianwu@adicu.com"
 				},
 				{
-					"name" : "Derek",
-					"email": "derek@adicu.com"
-				}
-			]
-		},
-		{
-			"location": "Mudd CS Lounge, entrance, lower",
-			"people": [
-				{
-					"name": "Howie",
-					"email" :"zhehao.mao@gmail.com"
-				},
-				{
-					"name" : "Zach",
-					"email": "zack@adicu.com"
+					"name": "Justin",
+					"email": "justinzhao@adicu.com"
 				}
 			]
 		},
@@ -108,17 +95,25 @@
 			"location": "Barnard",
 			"people": [
 				{
-					"name": "Sophie",
-					"email" :"sophie@adicu.com"
+					"name": "Parker",
+					"email": "parker@adicu.com"
+				},
+				{
+					"name": "Jett",
+					"email": "jett@adicu.com"
 				}
 			]
 		},
 		{
-			"location": "1006 Classroom (329 Pupin)",
+			"location": "math",
 			"people": [
 				{
-					"name": "Brian",
-					"email" :"brian@adicu.com"
+					"name": "Dan",
+					"email": "dan@adicu.com"
+				},
+				{
+					"name": "Polina",
+					"email": "polina@adicu.com"
 				}
 			]
 		},
@@ -126,8 +121,25 @@
 			"location": "Mudd 5,6,7,833",
 			"people": [
 				{
-					"name": "Jane",
-					"email" :"jane@adicu.com"
+					"name": "Nate",
+					"email": "nate@adicu.com"
+				},
+				{
+					"name": "Dina",
+					"email": "dina@adicu.com"
+				}
+			]
+		},
+		{
+			"location": "Mudd/CS Lounge, entrance, lower",
+			"people": [
+				{
+					"name": "Chris",
+					"email": "chris@adicu.com"
+				},
+				{
+					"name": "Gilad",
+					"email": "gilad@adicu.com"
 				}
 			]
 		}

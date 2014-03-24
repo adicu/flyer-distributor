@@ -6,15 +6,7 @@
 				{
 					"name": "Nate",
 					"email" :"nate@adicu.com"
-				},
-				{
-					"name" : "Brian",
-					"email": "brian@adicu.com"
-				},
-                {
-                    "name" : "Chris",
-                    "email" : "chris@adicu.com"
-                }
+				}
 			]
 		}
 	]
