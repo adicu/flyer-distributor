@@ -8,6 +8,15 @@
 					"email" :"nate@adicu.com"
 				}
 			]
-		}
+		},
+    {
+      "location": "Nate's Room",
+      "people": [
+        {
+          "name": "Jackie",
+          "email": "jackie@adicu.com"
+        },
+      ]
+    }
 	]
 }
