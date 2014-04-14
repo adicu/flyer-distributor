@@ -1,6 +1,6 @@
 Hi {names},
 
-Here's the flyers for this week.
+Here's the flyers for this week!
 As a reminder, you're signed up to flyer {location}.
 
 Thanks,
